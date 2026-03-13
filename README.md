@@ -7,7 +7,7 @@ A repo for agenda and slides of IETF125-AI Agent Security Side Meeting
 ## Purpose
 The goal of this side meeting is to summarize existing IETF security works against security requirements, identify security gaps for Agentic AI Applications.
 
-## Agenda 
+## Agenda (10+5Min each)
 * Agentic AI and AI Infra security scenario, risk analysis, existing work and gaps, Presenter Chunchi Peter Liu 
   * https://datatracker.ietf.org/doc/draft-ni-a2a-ai-agent-security-requirements/
 * A New Model for Authentication and Authorization of AI agent Interactions, Presenter Brian Campbell
@@ -16,9 +16,14 @@ The goal of this side meeting is to summarize existing IETF security works again
   * https://datatracker.ietf.org/doc/draft-birkholz-verifiable-agent-conversations/
 * Agent Operation Authorization, Framework and Practices, Presenter Dapeng Liu
   * https://datatracker.ietf.org/doc/draft-liu-agent-operation-authorization/
+* Authentication and Authorization Framework for AI Agents, Presenter Daniel King
+  * Draft TBS
 
 ## Link for Remote Participation
 * https://ietf.webex.com/wbxmjs/joinservice/sites/ietf/meeting/download/22b8850c89284619957a8b110a1e478d?key=meet&parameter=sidemeetings1
+
+## Note:
+For onsite people, we will go get lunch afterwards and continue the discussion.
 
 ## Slides
 To-be-submitted to this repository.
