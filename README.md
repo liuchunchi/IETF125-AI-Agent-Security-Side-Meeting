@@ -17,7 +17,7 @@ The goal of this side meeting is to summarize existing IETF security works again
 * Agent Operation Authorization, Framework and Practices, Presenter Dapeng Liu
   * https://datatracker.ietf.org/doc/draft-liu-agent-operation-authorization/
 * Authentication and Authorization Framework for AI Agents, Presenter Daniel King
-  * Draft TBS
+  * https://datatracker.ietf.org/doc/draft-kiliram-agent-trust-auth-framework/
 
 ## Link for Remote Participation
 * https://ietf.webex.com/wbxmjs/joinservice/sites/ietf/meeting/download/22b8850c89284619957a8b110a1e478d?key=meet&parameter=sidemeetings1
