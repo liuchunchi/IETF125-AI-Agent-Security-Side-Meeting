@@ -22,9 +22,9 @@ The goal of this side meeting is to summarize existing IETF security works again
 ## Link for Remote Participation
 * https://ietf.webex.com/wbxmjs/joinservice/sites/ietf/meeting/download/22b8850c89284619957a8b110a1e478d?key=meet&parameter=sidemeetings1
 
-## Note:
-For onsite people, we will go get lunch afterwards and continue the discussion.
-If the discussion is too warm and the crowd wants more time to further discuss the details, we may consider extend another meeting in Friday.
+## Minutes:
+https://github.com/liuchunchi/IETF125-AI-Agent-Security-Side-Meeting/blob/main/minutes.md
 
 ## Link for Meeting Record
 https://www.youtube.com/watch?v=MlpOzhR2Wj4
+
