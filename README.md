@@ -25,3 +25,6 @@ The goal of this side meeting is to summarize existing IETF security works again
 ## Note:
 For onsite people, we will go get lunch afterwards and continue the discussion.
 If the discussion is too warm and the crowd wants more time to further discuss the details, we may consider extend another meeting in Friday.
+
+## Link for Meeting Record
+https://www.youtube.com/watch?v=MlpOzhR2Wj4
